@@ -1,4 +1,4 @@
-### ⏳ Latest Project
+### ⏳ Projects
 
 <table>
   <tr>
