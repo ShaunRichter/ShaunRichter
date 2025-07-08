@@ -1,16 +1,13 @@
-## Hi there 👋
+### ⏳ Latest Project
 
-<!--
-**ShaunRichter/ShaunRichter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Nick-Hageman/Nick-Hageman/assets/91749467/7ff76152-cea9-4733-be0e-79bca92f1f8c" width="300" alt="DriveSense mockup">
+      <br>
+      <a href="https://github.com/ShaunRichter/ECE-5550-Internet-of-Things">DriveSense🚗</a>
+      <br>
+      🔨 Python, TensorFlow, React, Firebase
+    </td>
+  </tr>
+</table>
